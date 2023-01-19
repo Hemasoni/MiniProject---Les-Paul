@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(236, 229, 222);
+}
+.c1{
+  margin: auto;
+  width:min-content;
+}
+.ci{
+  width: 450px;
+  height: 400px;
+}
+#d1{
+  width: 80%;
+  margin: auto;
+}
+#d2{
+  background-color: rgb(238, 221, 247);
+  background: linear-gradient(rgba(250,250,250, 0.3),
+  rgba(250,250,250, 0.6)), url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-10-full.jpg);
+}
+#d3{
+  background-color: #f5ebdb;
+}
+#f1{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: rgb(143, 143, 143);
+  margin-top: 30px;
+  border-radius: 10px;
+}
+#i1{
+  margin: 5px;
+}
+#i2{
+  color: blue;
+  position: relative;
+  bottom: 1px;
+}
+#i3{
+  font-size: 25px;
+  margin: auto;
+}
+.linkedu{
+  border:2px solid white;
+  color:white; 
+  padding:12px; 
+  font-size:20px;
+  text-decoration: none;
+}
+.linkedu:hover{
+  color:red;
+  background-color: aqua;
+}
+#p1{
+  line-height: 25px;
+}
+.react-player { 
+  position: relative; 
+}
+.react-player > div {
+  position: absolute;
+  top:0;
+}
+#t1{
+  border: 1px solid black;
+  width: 90%;
+  line-height: 35px;
+}
